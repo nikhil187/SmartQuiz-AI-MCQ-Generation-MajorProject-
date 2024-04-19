@@ -1,0 +1,11 @@
+spacy
+nltk
+sense2vec
+transformers
+torch
+numpy
+flashtext
+pke @ git+https://github.com/boudinfl/pke.git
+strsim
+boto3
+ngrok
